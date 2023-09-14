@@ -1,2 +1,3 @@
 This is a sample text.
 This is another sample text.
+More changes to the text file.
